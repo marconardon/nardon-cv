@@ -71,7 +71,7 @@ A full-stack reservation management system built for a restaurant. It handles th
 
 The project is composed by a database for storing reservation and guest data, an frontend console for the staff and a backend for managing the business logic, plus two smaller components for the booking form and the cash register synchronization.
 
-More info on [https://mycadrega.up.railway.app/](https://mycadrega.up.railway.app/)
+More info on [https://mycadrega.up.railway.app/](<https://mycadrega.up.railway.app/>)
 
 ## Languages
 
