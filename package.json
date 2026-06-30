@@ -11,7 +11,7 @@
     "build:dark": "FORCE_THEME=dark astro build"
   },
   "devDependencies": {
-    "@astrojs/tailwind": "^5.1.4",
+    "@astrojs/tailwind": "^6.0.2",
     "@fontsource/poppins": "^5.2.5",
     "@tailwindcss/typography": "^0.5.16",
     "@types/node": "^22.13.8",
