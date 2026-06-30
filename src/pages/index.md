@@ -1,58 +1,87 @@
 ---
-title: Richard Hendriks - Resume
-description: Resume about Richard Hendriks, CEO of Pied Piper.
+title: Marco Nardon - CV
+description: Marco Nardon's Curriculum Vitae
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---
 
-# Richard Hendriks
+# Marco Nardon
 
-**Programmer**
+**Creative Technologist | Digital Marketing | Web Developer | Data Science Professional**
 
-San Francisco, USA | richard.hendriks@gmail.com | http://richardhendricks.com
+Milano, Italia | marco.infinity@gmail.com | http://marco.nardon.me
 
-Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+I am an experienced Digital Consultant, with strong expertise in Digital Marketing, Web Analytics and Marketing Technology.
+I worked as Digital Business Analyst (Web & Social Analytics), Content Manager, Digital Project Manager.
+Proficient in: Python, SQL, React, JavaScript, HTML, SCSS.
+IBM Data Science Professional Certification.
+ISC2 Certified in CyberSecurity Certification (CC).
 
 ## Work Experience
 
-### [Google](https://www.google.com/)
+### [Accenture Italia](https://www.accenture.it/)
 
-#### Senior Software Engineer | Oct 2022 - Current
+#### Digital Marketing Consultant | Sep 2014 - Sep 2015
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+- Project Manager
+- Business Analyst
+- Web Designer
+- Content Manager
 
-#### Software Engineer | Aug 2018 - Oct 2022
+### [Balance Consulting (part of Exprivia Group)](https://balanceconsulting.it/)
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+#### Digital & Social Media Consultant | Nov 2013 - Aug 2014
 
-### [Pied Piper](http://piedpiper.com/)
+- Managed the Brand Identity program: new "flat" logos, ppt/doc/xls/email templates, merchandising and brand guidelines
+- Redesigned the Corporate Website from the ground up: directly executed graphic design and coding, helped internal stakholders with content writing
+- Defined the company's Social Media Strategy & Policy, from objectives and KPIs to content planning and measurement
+- Managed the internal Enterprise Social Network program: helped the emergence of employees needs, selected software to address them and managed onboarding activities. Successfully migrated the org to Google Apps
 
-#### CEO/President | Dec 2013 - Dec 2014
+### [OpenKnowledge (part of BIP)](https://www.open-knowledge.it/)
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
+#### Social Media Consultant | Feb 2014 - Nov 2013
 
-- Build an algorithm for artist to detect if their music was violating copy right infringement laws
-- Successfully won Techcrunch Disrupt
-- Optimized an algorithm that holds the current world record for Weisman Scores
+- Social Media Listening / Monitoring: from setting up the tools to conversation analysis, everything to provide actionable insights to our clients
+- Social Advertising: Targeting, copywriting and keyword setup on Facebook and LinkedIn
+- Digital Communication: Website content writing and graphic design, promotional video creation
+
+### [Oracle Italia](https://www.oracle.com/it/)
+
+#### Social Media Consultant | Feb 2014 - Nov 2013
+
+- Consultancy + execution in the EMEA Social & New Media Marketing Team
+- Support & best practices in envisioning strategies for new Social Media Channels
+- Managed a Social Media Listening project from setup to delivery
+- Leveraged Social Analytics to optimize content and deliver best results
+- Created a Video Content Strategy to enable EMEA Field Marketers creating their own promotional videos
+- Special activities on Facebook: Promoted Posts strategy, Tabs creation,
+Response Management
+- Providing Social and New Media Training, Consulting and Guidelines to 200+ marketers
+- EMEA Field Marketing Intranet Management
+- Video creation for EM.TV - the EMEA Marketing Internal TV channel
+
 
 ## Projects
 
-### [Sillicon Valley](<https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>)
+### [My Cadrega Reservations](<https://mycadrega.up.railway.app/>)
 
-#### Video Compression for 3D Media
+#### Restaurant Reservation Management Web App
 
-#### Founder | Oct 2014
+A full-stack reservation management system built for a restaurant. It handles the complete reservation process, from booking a table online, to staff managing the floor in real time, to handling reservation and guest reporting.
 
-Innovative middle-out compression algorithm that changes the way we store data.
+The project is composed by a database for storing reservation and guest data, an frontend console for the staff and a backend for managing the business logic, plus two smaller components for the booking form and the cash register synchronization.
+
+More info on [https://mycadrega.up.railway.app/](https://mycadrega.up.railway.app/)
 
 ## Languages
 
-| English        | English     |
-| -------------- | ----------- |
-| Native speaker | Proficiency |
+| Italian        | English                |
+| -------------- | ---------------------- |
+| Native speaker | Highly Proficient (C2) |
 
 ## Education
 
-### University of Oklahoma
+### Università degli Studi di Milano
 
-#### Bachelor, Information Technology | Jun 2011 - Jan 2014
+#### Public & Corporate Communication, Business/Corporate Communications (2010 - 2013)
+#### Human Sciences & Communication, Communication and Media (First Degree, 2010) 
