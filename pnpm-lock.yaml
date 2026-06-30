@@ -22,8 +22,8 @@ importers:
         specifier: ^6.0.2
         version: 6.0.2(astro@7.0.4(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@types/node@22.13.8)(jiti@1.21.7)(rollup@4.40.1)(yaml@2.9.0))(tailwindcss@3.4.17)
       '@fontsource/poppins':
-        specifier: ^5.2.5
-        version: 5.2.5
+        specifier: ^5.2.7
+        version: 5.2.7
       '@tailwindcss/typography':
         specifier: ^0.5.16
         version: 0.5.16(tailwindcss@3.4.17)
@@ -489,8 +489,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@fontsource/poppins@5.2.5':
-    resolution: {integrity: sha512-1S3k45pZOz2jqGPPqKw0in3uxFwnB+d5jSU8Tp9YwH/dIJptE3jdkQbYN0QD861GtuOpn6QhPW/yKt1w7hVRBQ==}
+  '@fontsource/poppins@5.2.7':
+    resolution: {integrity: sha512-6uQyPmseo4FgI97WIhA4yWRlNaoLk4vSDK/PyRwdqqZb5zAEuc+Kunt8JTMcsHYUEGYBtN15SNkMajMdqUSUmg==}
 
   '@hapi/hoek@9.3.0':
     resolution: {integrity: sha512-/c6rf4UJlmHlC9b5BaNvzAcFv7HZ2QHaV0D4/HNlBdvFnvQq8RI4kYdhyPCl7Xj+oWvTWQ8ujhqS53LIgAe6KQ==}
@@ -3179,7 +3179,7 @@ snapshots:
   '@esbuild/win32-x64@0.28.1':
     optional: true
 
-  '@fontsource/poppins@5.2.5': {}
+  '@fontsource/poppins@5.2.7': {}
 
   '@hapi/hoek@9.3.0': {}
 
